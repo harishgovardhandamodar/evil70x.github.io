@@ -11,14 +11,10 @@
             "id": "3d97eb3ce0c890cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SyntheticData/Synthetic Data Quality Assessment/Disclosures in Synthetic Data/Disclosures in Synthetic Data.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Disclosures in Synthetic Data"
+              "title": "New tab"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SyntheticData/Synthetic Data Quality Assessment/Disclosures in Synthetic Data/Disclosures in Synthetic Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Disclosures in Synthetic Data"
+              "title": "Backlinks"
             }
           },
           {
@@ -112,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SyntheticData/Synthetic Data Quality Assessment/Disclosures in Synthetic Data/Disclosures in Synthetic Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Disclosures in Synthetic Data"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SyntheticData/Synthetic Data Quality Assessment/Disclosures in Synthetic Data/Disclosures in Synthetic Data.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Disclosures in Synthetic Data"
+              "title": "Outline"
             }
           }
         ]
@@ -164,6 +156,27 @@
   },
   "active": "3d97eb3ce0c890cc",
   "lastOpenFiles": [
+    "SyntheticData/Synthetic Data Quality Assessment/Disclosures in Synthetic Data/Disclosures in Synthetic Data.md",
+    "SyntheticData/Synthetic_Data_Quality_Assessment/Disclosures in Synthetic Data/ChildPages/Unique Matches.md",
+    "SyntheticData/Synthetic_Data_Quality_Assessment/Disclosures in Synthetic Data/ChildPages/Identity Disclosure.md",
+    "SyntheticData/Synthetic_Data_Quality_Assessment/Disclosures in Synthetic Data/ChildPages/Meaningful Identity Disclosure.md",
+    "SyntheticData/Synthetic_Data_Quality_Assessment/Disclosures in Synthetic Data/ChildPages/Learning Something New.md",
+    "SyntheticData/Synthetic_Data_Quality_Assessment/Disclosures in Synthetic Data/ChildPages/Inferential Disclosure.md",
+    "SyntheticData/Synthetic_Data_Quality_Assessment/Disclosures in Synthetic Data/ChildPages/Defining Information Gain.md",
+    "SyntheticData/Synthetic_Data_Quality_Assessment/Disclosures in Synthetic Data/ChildPages/Attribute Disclosure.md",
+    "SyntheticData/Synthetic_Data_Quality_Assessment/Disclosures in Synthetic Data/Disclosures in Synthetic Data.md",
+    "SyntheticData/Synthetic_Data_Quality_Assessment/Disclosures in Synthetic Data/ChildPages",
+    "SyntheticData/Synthetic_Data_Quality_Assessment/Synthetic Data Quality assessment.md",
+    "SyntheticData/Synthetic_Data_Quality_Assessment/The Jensen-Shannon Divergence.md",
+    "SyntheticData/Synthetic_Data_Quality_Assessment/Jaccard Distance.md",
+    "SyntheticData/Synthetic_Data_Quality_Assessment/Outlier mining in high-dimensional data using the Jensen–Shannon divergence and graph structure analysis.md",
+    "SyntheticData/Synthetic_Data_Quality_Assessment/Measuring the disclosure risk using TCAP.md",
+    "SyntheticData/Synthetic_Data_Quality_Assessment/Exploration of data utility and disclosure Risk.md",
+    "SyntheticData/Synthetic_Data_Quality_Assessment/Hamming Distance.md",
+    "SyntheticData/Synthetic_Data_Quality_Assessment/Hamming-Ipsen-Mikhailov (HIM) distance.md",
+    "SyntheticData/Synthetic_Data_Quality_Assessment/A Unified Framework for Quantifying Privacy Risk in Synthetic Data.md",
+    "SyntheticData/Synthetic_Data_Quality_Assessment/Disclosures in Synthetic Data",
+    "SyntheticData/Synthetic_Data_Quality_Assessment",
     "SyntheticData/Synthetic Data Quality Assessment/Hamming Distance.md",
     "SyntheticData/Synthetic Data Quality Assessment/A Unified Framework for Quantifying Privacy Risk in Synthetic Data.md",
     "SyntheticData/Synthetic Data Quality Assessment/Outlier mining in high-dimensional data using the Jensen–Shannon divergence and graph structure analysis.md",
@@ -172,17 +185,8 @@
     "SyntheticData/Synthetic Data Quality Assessment/Hamming-Ipsen-Mikhailov (HIM) distance.md",
     "SyntheticData/Synthetic Data Quality Assessment/Exploration of data utility and disclosure Risk.md",
     "SyntheticData/Synthetic Data Quality Assessment/Measuring the disclosure risk using TCAP.md",
-    "SyntheticData/Synthetic Data Quality Assessment/Disclosures in Synthetic Data/ChildPages/Inferential Disclosure.md",
-    "SyntheticData/Synthetic Data Quality Assessment/Disclosures in Synthetic Data/ChildPages/Meaningful Identity Disclosure.md",
-    "SyntheticData/Synthetic Data Quality Assessment/Disclosures in Synthetic Data/ChildPages/Attribute Disclosure.md",
-    "SyntheticData/Synthetic Data Quality Assessment/Disclosures in Synthetic Data/ChildPages/Learning Something New.md",
-    "SyntheticData/Synthetic Data Quality Assessment/Disclosures in Synthetic Data/ChildPages/Identity Disclosure.md",
-    "SyntheticData/Synthetic Data Quality Assessment/Disclosures in Synthetic Data/ChildPages/Unique Matches.md",
-    "SyntheticData/Synthetic Data Quality Assessment/Disclosures in Synthetic Data/ChildPages/Defining Information Gain.md",
-    "SyntheticData/Synthetic Data Quality Assessment/Disclosures in Synthetic Data/Disclosures in Synthetic Data.md",
     "SyntheticData/Synthetic Data Quality Assessment/Disclosures in Synthetic Data/ChildPages",
     "SyntheticData/Synthetic Data Quality Assessment/Disclosures in Synthetic Data",
-    "SyntheticData/Synthetic Data Quality Assessment/The Jensen-Shannon Divergence.md",
     "SyntheticData/Synthetic Data Quality Assessment",
     "SyntheticData"
   ]
